@@ -1,1 +1,3 @@
-# template_api_csharp_EF
+# Lancer l'application
+
+dotnet run
